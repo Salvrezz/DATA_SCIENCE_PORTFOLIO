@@ -2,13 +2,6 @@
 **Case Study: Lloyds Banking Group**
 
 ---
-**Screenshots:**  
-![erd](erd.PNG)  
-![churn_distribution](churn_distribution.PNG)  
-![confusion_matrix](confusion_matrix.PNG)  
-![roc_curve](roc_curve.PNG)
-![feature_engineering](feature_engineering.PNG)
-
 
 ## Executive Summary
 
@@ -24,7 +17,6 @@ This repository is structured to clearly demonstrate analytical thinking, techni
 
 ## 📁 Project Structure
 
-```text
 customer-churn-prediction-lloyds/
 ├── data/
 │   └── raw/
@@ -266,4 +258,10 @@ The Random Forest model provides a reliable and interpretable framework for chur
 
 ---
 
-📌 *This repository is designed to be easily reviewed by both technical teams and banking recruiters, demonstrating practical, production-ready analytics skills.*
+**Screenshots:**  
+![erd](erd.PNG)  
+![churn_distribution](churn_distribution.PNG)  
+![confusion_matrix](confusion_matrix.PNG)  
+![roc_curve](roc_curve.PNG)
+![feature_engineering](feature_engineering.PNG)
+
