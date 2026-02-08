@@ -17,31 +17,29 @@ This repository is structured to clearly demonstrate analytical thinking, techni
 
 ## Project Structure
 
-Customer-Churn-Prediction-Lloyds-Banking-Group/
+customer-churn-prediction-lloyds/
 │
 ├── data/
 │   ├── raw/
-│   │   └── Customer_Churn_Data_Large.csv
-│   │
-│   └── processed/
-│       └── churn_cleaned.sql   # output from joins & preprocessing
+│   │   └── customer_churn_data_large.csv
 │
 ├── sql/
-│   ├── Lloyds_Banking_Group_JOINS.sql
-│   └── Lloyds_Banking_Group_EDA_Preprocess.sql
+│   ├── lloyds_joins.sql
+│   └── lloyds_eda_preprocess.sql
 │
 ├── notebooks/
-│   └── Customer_Churn_Prediction_&_Retention_Analytics_(Lloyds_Banking_Group).ipynb
+│   └── customer_churn_prediction_lloyds.ipynb
 │
 ├── visuals/
-│   ├── ERD.png
-│   ├── Churn_Distribution.png
-│   ├── Confusion_Matrix.png
-│   ├── ROC_Curve.png
-│   └── Feature_Engineering.png
+│   ├── erd.png
+│   ├── churn_distribution.png
+│   ├── feature_engineering.png
+│   ├── confusion_matrix.png
+│   └── roc_curve.png
 │
 ├── README.md
 └── .gitignore
+
 
 ---
 
