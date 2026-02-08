@@ -36,6 +36,25 @@ customer-churn-prediction-lloyds/
 ├── README.md
 └── .gitignore
 
+## 🔗 Project Files
+
+### Data
+- [Raw Customer Churn Dataset](data/raw/customer_churn_data_large.csv)
+
+### SQL
+- [Table Joins](sql/lloyds_joins.sql)
+- [EDA & Preprocessing](sql/lloyds_eda_preprocess.sql)
+
+### Notebook
+- [End-to-End Churn Prediction Notebook](notebooks/customer_churn_prediction_lloyds.ipynb)
+
+### Visual Outputs
+- [Entity Relationship Diagram (ERD)](visuals/erd.png)
+- [Churn Distribution](visuals/churn_distribution.png)
+- [Feature Engineering](visuals/feature_engineering.png)
+- [Confusion Matrix](visuals/confusion_matrix.png)
+- [ROC Curve](visuals/roc_curve.png)
+
 
 ---
 
