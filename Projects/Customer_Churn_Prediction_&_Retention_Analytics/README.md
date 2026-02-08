@@ -36,8 +36,12 @@ customer-churn-prediction-lloyds/
 ├── README.md
 └── .gitignore
 
-
-
+**Screenshots:**  
+![erd](erd.PNG)  
+![churn_distribution](churn_distribution.PNG)  
+![confusion_matrix](confusion_matrix.PNG)  
+![roc_curve](roc_curve.PNG)
+![feature_engineering](feature_engineering.PNG)
 
 ---
 
