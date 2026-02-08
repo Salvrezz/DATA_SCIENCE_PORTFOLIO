@@ -17,7 +17,6 @@ This repository is structured to clearly demonstrate analytical thinking, techni
 
 ## Project Structure
 
-```text
 customer-churn-prediction-lloyds/
 ├── data/
 │   └── raw/
