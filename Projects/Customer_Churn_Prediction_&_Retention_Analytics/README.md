@@ -17,24 +17,17 @@ This repository is structured to clearly demonstrate analytical thinking, techni
 
 ## 📁 Project Structure
 
-customer-churn-prediction-lloyds/
-├── data/
-│   └── raw/
-│       └── customer_churn_data_large.csv
-├── sql/
-│   ├── Entity-Relationship Diagram
-│   ├── lloyds_joins.sql
-│   └── lloyds_eda_preprocess.sql
-├── notebooks/
-│   └── customer_churn_prediction_lloyds.ipynb
-├── visuals/
-│   ├── erd.png
-│   ├── churn_distribution.png
-│   ├── feature_engineering.png
-│   ├── confusion_matrix.png
-│   └── roc_curve.png
-├── README.md
-└── .gitignore
+📁 customer-churn-prediction-lloyds
+├─ 📄 customer_churn_data_large.csv
+├─ 📄 Entity-Relationship Diagram
+├─ 📄 lloyds_joins.sql
+├─ 📄 lloyds_eda_preprocess.sql
+├─ 📄 customer_churn_prediction_lloyds.ipynb
+├─ 📄 erd.png
+├─ 📄 churn_distribution.png
+├─ 📄 feature_engineering.png
+├─ 📄 confusion_matrix.png
+├─ 📄 roc_curve.png
 
 ---
 ## Business Problem
