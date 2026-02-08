@@ -17,26 +17,22 @@ This repository is structured to clearly demonstrate analytical thinking, techni
 
 ## Project Structure
 
+```text
 customer-churn-prediction-lloyds/
-│
 ├── data/
-│   ├── raw/
-│   │   └── customer_churn_data_large.csv
-│
+│   └── raw/
+│       └── customer_churn_data_large.csv
 ├── sql/
 │   ├── lloyds_joins.sql
 │   └── lloyds_eda_preprocess.sql
-│
 ├── notebooks/
 │   └── customer_churn_prediction_lloyds.ipynb
-│
 ├── visuals/
 │   ├── erd.png
 │   ├── churn_distribution.png
 │   ├── feature_engineering.png
 │   ├── confusion_matrix.png
 │   └── roc_curve.png
-│
 ├── README.md
 └── .gitignore
 
