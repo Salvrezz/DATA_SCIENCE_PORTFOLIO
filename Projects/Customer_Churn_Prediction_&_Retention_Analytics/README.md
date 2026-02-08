@@ -15,13 +15,15 @@ This repository is structured to clearly demonstrate analytical thinking, techni
 
 ---
 
-## Project Structure
+## 📁 Project Structure
 
+``text
 customer-churn-prediction-lloyds/
 ├── data/
 │   └── raw/
 │       └── customer_churn_data_large.csv
 ├── sql/
+│   ├── Entity-Relationship Diagram
 │   ├── lloyds_joins.sql
 │   └── lloyds_eda_preprocess.sql
 ├── notebooks/
@@ -34,6 +36,7 @@ customer-churn-prediction-lloyds/
 │   └── roc_curve.png
 ├── README.md
 └── .gitignore
+
 
 **Screenshots:**  
 ![erd](erd.PNG)  
