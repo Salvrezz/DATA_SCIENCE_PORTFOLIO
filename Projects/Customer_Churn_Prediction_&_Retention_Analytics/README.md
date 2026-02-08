@@ -2,6 +2,13 @@
 **Case Study: Lloyds Banking Group**
 
 ---
+**Screenshots:**  
+![erd](erd.PNG)  
+![churn_distribution](churn_distribution.PNG)  
+![confusion_matrix](confusion_matrix.PNG)  
+![roc_curve](roc_curve.PNG)
+![feature_engineering](feature_engineering.PNG)
+
 
 ## Executive Summary
 
@@ -17,7 +24,7 @@ This repository is structured to clearly demonstrate analytical thinking, techni
 
 ## 📁 Project Structure
 
-``text
+```text
 customer-churn-prediction-lloyds/
 ├── data/
 │   └── raw/
@@ -37,16 +44,7 @@ customer-churn-prediction-lloyds/
 ├── README.md
 └── .gitignore
 
-
-**Screenshots:**  
-![erd](erd.PNG)  
-![churn_distribution](churn_distribution.PNG)  
-![confusion_matrix](confusion_matrix.PNG)  
-![roc_curve](roc_curve.PNG)
-![feature_engineering](feature_engineering.PNG)
-
 ---
-
 ## Business Problem
 
 Customer churn represents a direct revenue and relationship risk for banks. Acquiring new customers is significantly more expensive than retaining existing ones.  
