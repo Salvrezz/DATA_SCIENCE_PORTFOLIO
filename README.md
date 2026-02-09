@@ -37,8 +37,14 @@ End-to-end data science and machine learning projects showcasing:
 - Model building & evaluation  
 - Real-world datasets and use cases  
 
-👉 **All projects are organized in a dedicated folder:**  
-📂 **[`/projects`](./projects)**
+Below is a selection of my data science and machine learning projects.  
+Each project includes a brief description, tools used, and a direct link to the full project folder.
+
+| Project Name | Tools & Technologies | Description | Link |
+|-------------|---------------------|-------------|------|
+| Customer Churn Analysis | Python, Pandas, Matplotlib, Seaborn, Scikit-learn, Feature Engineering, XGBoost | Analyzed customer behavior to identify churn patterns and key drivers. | [View Project](./projects/customer_churn) |
+|
+
 
 Each project contains its own README with details on objectives, methods, and results.
 
