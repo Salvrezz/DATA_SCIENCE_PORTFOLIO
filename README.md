@@ -14,7 +14,7 @@ These scripts demonstrate:
 - Practical problem-solving  
 - Use of libraries such as `pandas`, `os`, `datetime`, and more  
 
-📂 Location: [`/automation`](./automation)
+📂 Location: [`/automation`](./GWX)
 
 ---
 
