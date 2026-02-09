@@ -15,38 +15,6 @@ This repository is structured to clearly demonstrate analytical thinking, techni
 
 ---
 
-customer-churn-prediction/
-│
-├── data/
-│   ├── raw/
-│   │   └── lloyds_customer_data.xlsx
-│   ├── processed/
-│   │   └── churn_analysis_ready.csv
-│
-├── sql/
-│   ├── erd/
-│   │   └── customer_churn_erd.png
-│   ├── joins/
-│   │   └── customer_left_joins.sql
-│   └── preprocessing/
-│       └── data_cleaning_eda.sql
-│
-├── notebooks/
-│   └── 01_customer_churn_eda.ipynb
-│
-├── src/
-│   ├── preprocessing.py
-│   ├── feature_engineering.py
-│   └── utils.py
-│
-├── outputs/
-│   ├── figures/
-│   └── eda_summary.md
-│
-├── README.md
-├── requirements.txt
-└── .gitignore
-
 
 ## Business Problem
 
