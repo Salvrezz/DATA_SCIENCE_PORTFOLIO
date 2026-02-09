@@ -42,7 +42,7 @@ Each project includes a brief description, tools used, and a direct link to the 
 
 | Project Name | Tools & Technologies | Description | Link |
 |-------------|---------------------|-------------|------|
-| Customer Churn Analysis | Python, Pandas, Matplotlib, Seaborn, Scikit-learn, Feature Engineering, XGBoost | Analyzed customer behavior to identify churn patterns and key drivers. | [View Project](./projects/customer_churn) |
+| Customer Churn Analysis | Python, Pandas, Matplotlib, Seaborn, Scikit-learn, Feature Engineering, XGBoost | Analyzed customer behavior to identify churn patterns and key drivers. | [View Project](./Projects/Customer_Churn_Prediction_&_Retention_Analytics) |
 |
 
 
