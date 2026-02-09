@@ -28,8 +28,8 @@ customer-churn-prediction/
 │   │   └── customer_churn_erd.png
 │   ├── joins/
 │   │   └── customer_left_joins.sql
-│   ├── preprocessing/
-│   │   └── data_cleaning_eda.sql
+│   └── preprocessing/
+│       └── data_cleaning_eda.sql
 │
 ├── notebooks/
 │   └── 01_customer_churn_eda.ipynb
@@ -46,6 +46,7 @@ customer-churn-prediction/
 ├── README.md
 ├── requirements.txt
 └── .gitignore
+
 
 ## Business Problem
 
