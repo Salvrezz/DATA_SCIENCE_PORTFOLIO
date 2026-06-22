@@ -1,6 +1,8 @@
 # Ignore data folders
-data/raw/
-data/processed/
+*.log
+.venv/
+Spectrum/Reconcilation/Data/raw/
+Spectrum/Reconcilation/Data/processed/
 
 # Optional
 __pycache__/
