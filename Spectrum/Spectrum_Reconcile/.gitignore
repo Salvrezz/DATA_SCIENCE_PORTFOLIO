@@ -1,0 +1,9 @@
+# Ignore data folders
+data/raw/
+data/processed/
+
+# Optional
+__pycache__/
+*.pyc
+.env
+.vscode/
